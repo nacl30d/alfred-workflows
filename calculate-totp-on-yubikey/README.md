@@ -1,5 +1,9 @@
 # Calculate TOTP on Yubikey
 
+## Required
+
+- [ykman](https://docs.yubico.com/software/yubikey/tools/ykman/)
+
 ## Usage
 
 ### Select an entry to calculate TOTP
